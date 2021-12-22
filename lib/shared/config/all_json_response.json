@@ -1,0 +1,17 @@
+{
+  "veteran_work": {
+    "TeamType": "Pasukan",
+    "DateCertified": "13-Mar-2005",
+    "AgeWorkStart": 25,
+    "AgeWorkEnd": 65,
+    "RankStatus": "SJN",
+    "ForceType": "Askar Laskar",
+    "ServiceType": "Darat",
+    "Kor": "KPD",
+    "WorkStartDate": "02-Jun-2010",
+    "WorkEndDate": "04-Jun-2050",
+    "RetireDate": "05-Jun-2050",
+    "ReturnCode": 200,
+    "ResponseMessage": "Success"
+  }
+}
